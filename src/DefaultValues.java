@@ -13,7 +13,7 @@ public class DefaultValues {
         int i;
         boolean active;
 
-        public int getI() { return i; }
+        public int getI() { return i;}
 
         public boolean isActive () { return active; }
     }
